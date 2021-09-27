@@ -1,8 +1,8 @@
 # Make Chat Application
 
-Make Chat is a desktop chat application developed based on the theory of Socket Programming where multiple client user connect them through server and can chat continously. This project is an academic project. Here is the project demonstration with some working features.
+Make Chat is a desktop chat application developed based on the theory of Socket Programming where multiple client user connect them through server and can chat continously. This project is an academic project.
 
-![MakeChat App](project_demo.gif)
+
 
 ## Base Features
 
