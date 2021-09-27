@@ -41,7 +41,4 @@ You're on now. run `Main.java` class from MakeChatClient project multiple times 
 Or
 For easy run experience, just run the .jar files.
 
-### Obstacles
 
-* No online domain!! That's why, the app can only save and load previous messages in localhost.
-* Multiple Clients should be in a same network.
